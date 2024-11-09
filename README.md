@@ -11,8 +11,6 @@ student in a Bachelor's in Multimedia and Internet Technology<br>Full-stack Deve
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rboucheron&theme=catppuccin_mocha&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rboucheron&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rboucheron&limit=5&theme=darcula&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rboucheron&icon=0&color=0)](https://visitcount.itsvg.in)
