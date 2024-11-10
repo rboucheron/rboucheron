@@ -11,9 +11,9 @@ student in a Bachelor's in Multimedia and Internet Technology<br>Full-stack Deve
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rboucheron&theme=one_dark_pro&no-frame=true&no-bg=true&margin-w=4)
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://katherineoelsner.com/](https://rboucheron.vercel.app/fr))
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/rapha%C3%ABl-boucheron-287b02233/))
+# 🔗 Links :
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://rboucheron.vercel.app/fr])
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
