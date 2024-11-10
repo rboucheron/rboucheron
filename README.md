@@ -12,7 +12,7 @@ student in a Bachelor's in Multimedia and Internet Technology<br>Full-stack Deve
 ![](https://github-profile-trophy.vercel.app/?username=rboucheron&theme=one_dark_pro&no-frame=true&no-bg=true&margin-w=4)
 
 # 🔗 Links :
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://rboucheron.vercel.app/fr])]
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rboucheron.vercel.app/fr)
 
 
 
