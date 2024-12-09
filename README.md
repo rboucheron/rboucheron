@@ -11,6 +11,15 @@ student in a Bachelor's in Multimedia and Internet Technology<br>Full-stack Deve
 # 🏆 GitHub Trophies :
 ![](https://github-profile-trophy.vercel.app/?username=rboucheron&theme=one_dark_pro&no-frame=true&no-bg=true&margin-w=4)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rboucheron&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rboucheron&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rboucheron&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rboucheron&limit=5&theme=react&combine_all_yearly_contributions=true)
+
+
 # 🔗 Links :
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rboucheron.vercel.app/fr)
 
