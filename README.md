@@ -2,7 +2,7 @@
 
 # 💫 About Me :
 🎓 Student in BUT MMI.
-💻 Passionate about web development, design, and all things tech!
+💻 Passionate about web development
 
 🚀 Currently working on:
 ✨ Foliode – a sleek portfolio builder to showcase your work in style!
