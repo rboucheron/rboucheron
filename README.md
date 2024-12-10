@@ -1,7 +1,11 @@
 
 
 # 💫 About Me :
-student in a Bachelor's in Multimedia and Internet Technology<br>Full-stack Developer
+🎓 Student in BUT MMI.
+💻 Passionate about web development, design, and all things tech!
+
+🚀 Currently working on:
+✨ Foliode – a sleek portfolio builder to showcase your work in style!
 
 
 
